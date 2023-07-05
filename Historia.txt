@@ -1,0 +1,3 @@
+Vamos a probar las versiones de git
+Como manejarlas 
+Modificarlas y borrarlas

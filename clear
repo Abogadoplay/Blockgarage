@@ -1,0 +1,38 @@
+[33mcommit ea836ddafe9fae1832e61728e5f9109dea70eab0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Kristian Mena <k-mena02@hotmail.com>
+Date:   Tue Jul 4 22:41:56 2023 -0500
+
+    Casi la cago
+
+ Blog.html       |  9 [32m+++++++[m[31m--[m
+ CSS/estilos.css | 23 [32m+++++++++++++++++++[m[31m----[m
+ 2 files changed, 26 insertions(+), 6 deletions(-)
+
+[33mcommit b005bbf975789678fca34d957e1bb95db3115614[m
+Author: Kristian Mena <k-mena02@hotmail.com>
+Date:   Thu Jun 29 14:35:43 2023 -0500
+
+    Camibos del codigo
+
+ Blog.html       | 4 [32m++[m[31m--[m
+ CSS/estilos.css | 2 [32m+[m[31m-[m
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+
+[33mcommit 37b9568ce6b2eae9cf0525a4a6d6b6b5150f9a85[m
+Author: Kristian Mena <k-mena02@hotmail.com>
+Date:   Thu Jun 29 14:31:11 2023 -0500
+
+    Empezando con codigo
+
+ Blog.html       | 10 [32m++++++++++[m
+ CSS/estilos.css |  6 [32m++++++[m
+ 2 files changed, 16 insertions(+)
+
+[33mcommit fd4a67224da1ee3d99de0b07d8a09c66f1cb9934[m
+Author: Kristian Mena <k-mena02@hotmail.com>
+Date:   Thu Jun 29 12:48:57 2023 -0500
+
+    Primer mensaje de archivo
+
+ Historia.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
